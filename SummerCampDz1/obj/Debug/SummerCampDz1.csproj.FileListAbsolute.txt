@@ -1,0 +1,8 @@
+D:\C# Project\SummerCampDz1\SummerCampDz1\bin\Debug\SummerCampDz1.exe.config
+D:\C# Project\SummerCampDz1\SummerCampDz1\bin\Debug\SummerCampDz1.exe
+D:\C# Project\SummerCampDz1\SummerCampDz1\bin\Debug\SummerCampDz1.pdb
+D:\C# Project\SummerCampDz1\SummerCampDz1\obj\Debug\SummerCampDz1.csproj.AssemblyReference.cache
+D:\C# Project\SummerCampDz1\SummerCampDz1\obj\Debug\SummerCampDz1.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\SummerCampDz1\SummerCampDz1\obj\Debug\SummerCampDz1.csproj.CoreCompileInputs.cache
+D:\C# Project\SummerCampDz1\SummerCampDz1\obj\Debug\SummerCampDz1.exe
+D:\C# Project\SummerCampDz1\SummerCampDz1\obj\Debug\SummerCampDz1.pdb
